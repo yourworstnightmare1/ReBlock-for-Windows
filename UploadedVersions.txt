@@ -1,0 +1,4 @@
+These are the following versions that have been successfully uploaded to GitHub:
+(oldest to newest version)
+
+- v1.0 Beta
