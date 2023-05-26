@@ -1,10 +1,15 @@
 # ReBlock for Windows
-This repository contains all of the files for ReBlock, all contained in one place for people to access if they want to modify it or use it when the websites are blocked (the lite one shouldn't be).
+This repository contains all of the files for ReBlock, all contained in one place for people to access if they want to modify it (as long as it follows the license agreement) or use it when the websites are blocked (the lite one shouldn't be since it's a Google Site).
 
 We've also contained all of the files for all of the compiled versions.
 
 We hope you enjoy! <3
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Tqs6wCq" data-context="false" ><a href="//imgur.com/a/Tqs6wCq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![image](https://github.com/yourworstnightmare1/ReBlock-for-Windows/assets/134671973/7bec1706-4f1d-41b8-a9f6-b06ca0509544)
 
-The ReBlock Projections Team
+-- The ReBlock Projections Team
+
+sites.google.com/view/reblock
+sites.google.com/view/reblockappstore
+
+The latest version of ReBlock is 1.0 Beta. The compilation is incomplete so some things may not work.
