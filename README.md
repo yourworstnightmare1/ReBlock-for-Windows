@@ -5,7 +5,7 @@ We've also contained all of the files for all of the compiled versions.
 
 We hope you enjoy! <3
 
-![image](https://github.com/yourworstnightmare1/ReBlock-for-Windows/assets/134671973/7bec1706-4f1d-41b8-a9f6-b06ca0509544)
+![image](https://github.com/yourworstnightmare1/ReBlock-for-Windows/assets/134671973/a141d617-d33f-46dd-a0ce-8733d164874b)
 
 -- The ReBlock Projections Team
 
