@@ -1,15 +1,23 @@
 # ReBlock for Windows
-This repository contains all of the files for ReBlock, all contained in one place for people to access if they want to modify it (as long as it follows the license agreement) or use it when the websites are blocked (the lite one shouldn't be since it's a Google Site).
 
-We've also contained all of the files for all of the compiled versions.
+Welcome to ReBlock. You may know us from our macOS releases and our documentation. And we have just created a version for Windows.
 
-We hope you enjoy! <3
+This has been a long-coming project, a wrench in the works. Over a month of expertise has went into this, and this isn't the end. This isn't even the beginning. 
 
-![image](https://github.com/yourworstnightmare1/ReBlock-for-Windows/assets/134671973/a141d617-d33f-46dd-a0ce-8733d164874b)
+This is ReBlock. and we have so much planned.
 
--- The ReBlock Projections Team
+# Installations
 
-sites.google.com/view/reblock
-sites.google.com/view/reblockappstore
+Visit the ReBlock website to also view these installs [Here](https://www.sites.google.com/reblock/win/installations)
 
-The latest version of ReBlock is 1.0 Beta. The compilation is incomplete so some things may not work.
+| Release Name | Version | Date Release | Status |
+| --- | --- | --- |
+| ReBlock 2 | 2.0b r1 | N/A | Unavailable |
+| [ReBlock 1](https://www.github.com/yourworstnightmare1/ReBlock-for-Windows/raw/main/ReBlockWin_1.0b_build2.zip) | 1.0b r2 | 6/6/2023 | Operational
+
+We hope you enjoy!
+
+![ShortcutIcon_256x256x32](https://github.com/yourworstnightmare1/ReBlock-for-Windows/assets/134671973/0bc406e2-cd8e-4f60-b326-dc3b9a63fae9)
+
+
+<3 The ReBlock Projections Team
