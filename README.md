@@ -11,7 +11,7 @@ This is ReBlock. and we have so much planned.
 Visit the ReBlock website to also view these installs [here](https://www.sites.google.com/reblock/win/installations).
 
 | Name | Release Name | Version | Date Release | Status |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | `ReBlock 2` | 2.0-beta | 2.0b r1 | N/A | Unavailable |
 | [ReBlock 1](https://www.github.com/yourworstnightmare1/ReBlock-for-Windows/raw/main/ReBlockWin_1.0b_build2.zip) | 1.0-beta | 1.0b r2 | 6/6/2023 | Operational |
 
