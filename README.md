@@ -10,21 +10,11 @@ This is ReBlock. and we have so much planned.
 
 Visit the ReBlock website to also view these installs [here](https://sites.google.com/reblock/install/versions).
 
+Visit the Releases page to download new versions [here](https//github.com/yourworstnightmare1/ReBlock-for-Windows/releases)
+
 If you're looking for ReBlock for macOS 12/13/14, click [here](https://sites.google.com/reblock/install/versions).
 
 If you're currently using a Windows emulator such as Wine or CrossOver, check the [compatability](https://github.com/yourworstnightmare1/ReBlock-for-Windows#compatability) section, or check the [wiki](https://github.con/yourworstnightmare1/ReBlock-for-Windows/wiki) for more info.
-
-
-| Name | Release Name | Version | Date Released | Status |
-| --- | --- | --- | --- | --- |
-| ReBlock 1 | 1.0-full-release | 1.0 | N/A | Unreleased |
-| [ReBlock 1](https://www.github.com/yourworstnightmare1/ReBlock-for-Windows/raw/main/ReBlockWin_1.0b_build2.zip) | 1.0-beta | 1.0b r2 | 6/6/2023 | Operational |
-
-# Tool Standalones
-
-| Name | Version | Date Released | GitHub Repo |
-| --- | --- | --- | --- |
-| appUnblocker 1 | 1.0 | 6/6/2023 | [View Repo](https://github.com/yourworstnightmare1/appunblocker) |
 
 # Compatability
 
