@@ -12,22 +12,13 @@ Visit the ReBlock website to also view these installs [here](https://sites.googl
 
 Visit the Releases page to download new versions [here](https//github.com/yourworstnightmare1/ReBlock-for-Windows/releases)
 
-If you're looking for ReBlock for macOS 12/13/14, click [here](https://sites.google.com/reblock/install/versions).
+If you're looking for ReBlock for macOS 13/14, click [here](https://sites.google.com/reblock/install/versions).
 
 If you're currently using a Windows emulator such as Wine or CrossOver, check the [compatability](https://github.com/yourworstnightmare1/ReBlock-for-Windows#compatability) section, or check the [wiki](https://github.con/yourworstnightmare1/ReBlock-for-Windows/wiki) for more info.
 
 # Compatability
 
-Any Windows emulator that is command-line based or some GUIs like [CrossOver](https://codeweavers.crossover.com) most likely runs using [Wine](https://winehq.org).
-
-| OS | Publisher | Status | Supported Addons | Prerequisites needed? |
-| --- | --- | --- | --- | --- |
-| Wine for Windows 10 | WineHQ | Fully Functional | All | No |
-| Wine for Windows 11 | WineHQ | Fully Functional | All | No |
-| Windows 8 | Microsoft Corporation | Fully Functional | All | No |
-| Windows 8.1 | Microsoft Corporation | Fully Functional | All | No |
-| Windows 10 | Microsoft Corporation | Fully Functional | All | No |
-| Windows 11 | Microsoft Corporation | Fully Functional | All | No |
+ReBlock is supported with Windows and uses Command Prompt for being a CLI-based program.
 
 We hope you enjoy!
 
