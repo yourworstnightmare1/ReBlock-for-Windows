@@ -1,5 +1,0 @@
-about.txt | C:\ReBlock_Projections_Source\main\appdataMain\unblockers\appUnblocker\about.txt
-============================================================================================
-
-
-appUnblocker allows you to unblock installers or apps that require administrator permissions. This won't work for all apps, as some try to access "rundll32.exe", which is required for some x32 (x86) apps.
