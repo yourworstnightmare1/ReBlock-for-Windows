@@ -1,0 +1,4 @@
+PRIVACY.txt
+___________
+
+ReBlock Projections takes your privacy seriously. That is why we never collect or sell your data to third-party sources. ReBlock will also not create log files (View more in the nolog.txt file (file:///C:/Program%20Files/ReBlock/2.0-fr-r2/nolog.txt)).

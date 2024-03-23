@@ -1,0 +1,4 @@
+nolog.txt
+_________
+
+When using a stable or full-release (fr) version of ReBlock, ReBlock will not make any log files or keep track of things you do within ReBlock. This is to protect your data and allow you to keep using ReBlock without any visible traces in the form of leftover logs.
