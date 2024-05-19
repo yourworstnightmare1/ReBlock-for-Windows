@@ -1,3 +1,6 @@
+## This repository is deprecated
+This repository is no longer being used to host ReBlock's source code and official releases and is archived. [Click here](https://github.com/yourworstnightmare1/ReBlock) to go to the new repository.
+
 # ReBlock for Windows
 
 Welcome to ReBlock. You may know us from our macOS releases. And we have just created a version for Windows.
